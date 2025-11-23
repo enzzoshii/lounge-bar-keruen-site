@@ -283,7 +283,7 @@ nav {
     gap: 10px; /* меньше расстояние между пунктами */
   }
   .logo img {
-    height: 90px;
+    height: 50px;
   }
 }
 
@@ -298,4 +298,5 @@ nav {
   opacity: 1;
   transform: translateY(0);
 }
+
 
